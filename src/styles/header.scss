@@ -8,6 +8,9 @@ nav {
   align-items: center;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.229);
   background-color: white;
+  >.icon{
+    size: 1mm;
+  }
 
   > div {
     display: flex;

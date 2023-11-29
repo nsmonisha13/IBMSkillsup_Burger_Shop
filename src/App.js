@@ -45,7 +45,7 @@ function App() {
         <Route path="/me" element={<Profile />} />
         <Route path="/order/:id" element={<OrderDetails />} />
         <Route path="/myorders" element={<MyOrders />} />
-      
+        <Route path="/menu" element={<Menu />} />
 
 
         

@@ -72,7 +72,7 @@ const Login = () => {
             <a href="!#">Forgot password?</a>
           </div>
 
-          <MDBBtn className="mb-4 w-100">Sign in</MDBBtn>
+          <MDBBtn className="mb-4 w-100"  href='/'>Sign in</MDBBtn>
           <p className="text-center">Not a member? <a href="#!">Register</a></p>
           </MDBTabsPane>
           <MDBTabsPane show={justifyActive === 'tab2'}>
